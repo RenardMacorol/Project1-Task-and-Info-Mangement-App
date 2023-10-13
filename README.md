@@ -1,7 +1,7 @@
 # Project1-Task-and-Info-Mangement-App
 <p>A "What to Do?" picker app 1.0 Build
 This Projects has a Roadmap</p>
-<p></p>0.0 - build just a whatPicker with array [Schoolwork, Personal projects, Work]
+<p>0.0 - build just a whatPicker with array [Schoolwork, Personal projects, Work]
 0.1 - add File Handling system/OOP
 0.5 - make Refactoring
 0.9 - add gui

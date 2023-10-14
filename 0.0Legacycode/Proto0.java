@@ -1,10 +1,11 @@
 import java.util.*;
 public class Proto0{
-    
+    //A whatTODO Picker With simple Functionality
     public static void main(String[] args) {
       startText();
     }
 
+    //starting conditional
     static void startText(){
         Scanner s = new Scanner(System.in);
         
@@ -15,6 +16,7 @@ public class Proto0{
         execute(input);
     }
 
+    //Creates Ouput 
     static void execute(String input){
         final String array[] = {"School", "Personal Project", "Work"};
         Random r = new Random();
@@ -33,6 +35,7 @@ public class Proto0{
         credit();
     }
 
+    //credit 
     static void credit(){
         System.out.println("Created By: Wonkabars");
         System.out.println("Github: https://github.com/RenardFake");
